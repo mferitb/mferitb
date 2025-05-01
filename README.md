@@ -1,3 +1,5 @@
+![banner](https://github.com/user-attachments/assets/627e2ea8-47e2-406f-b029-0a9ff6e4493e)
+
 ### Hi, I'm Ferit 👋  <br>I'm a passionate **Full-Stack Developer** with a strong interest in building functional, user-friendly, and scalable web applications.<br><br>🔧 I enjoy working across the entire stack — from designing intuitive front-end interfaces to developing robust back-end systems and APIs.<br><br>🚀 I'm always eager to learn new technologies, solve real-world problems, and collaborate on exciting projects that make a difference.<br><br>🌱 I'm continuously improving my skills in **database design**, **API development**, and **cloud deployment** to become a well-rounded developer.<br>
 
 
